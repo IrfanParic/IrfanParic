@@ -2,9 +2,9 @@
   
 # Hello, my name is [Irfan Paric](https://irfanparic.netlify.app), and this is my GitHub!
   
-[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40">](https://www.linkedin.com/in/irfan-paric-b96b6a160) &nbsp; &nbsp;
-[<img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40">](https://www.facebook.com/irfan.paric1) &nbsp; &nbsp;
-[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="40">](https://www.instagram.com/irfanparic/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" target="_blank">](https://www.linkedin.com/in/irfan-paric-b96b6a160) &nbsp; &nbsp;
+[<img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" target="_blank">](https://www.facebook.com/irfan.paric1) &nbsp; &nbsp;
+[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="40" target="_blank">](https://www.instagram.com/irfanparic/)
 
  I am a young and inspired individual, born and lives in Sarajevo, Bosnia and Herzegovina trying to make it in coding world. <br>
  Currently, I am a 3rd year student at [SSST](https://ssst.edu.ba), major in Computer Science and minor in International Business.
