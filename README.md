@@ -7,7 +7,7 @@
 [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="40" target="_blank">](https://www.instagram.com/irfanparic/)
 
  I am a young and inspired individual, born and lives in Sarajevo, Bosnia and Herzegovina trying to make it in coding world. <br>
- Currently, I am a 3rd year student at [SSST](https://ssst.edu.ba), major in Computer Science and minor in International Business.
+ Currently, I am a 4th year student at [SSST](https://ssst.edu.ba), major in Computer Science and minor in International Business.
  
   
 ## I am well expirienced in
