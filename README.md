@@ -13,11 +13,9 @@
 ## I am well expirienced in
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,angular,java,php,c,cpp,postgres,mysql,figma)](https://skills.thijs.gg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanParic&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ## My GitHub stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IrfanParic&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrfanParic&show_icons=true&theme=tokyonight)
 
 </div>
