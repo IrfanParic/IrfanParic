@@ -11,7 +11,7 @@
  
   
 ## I am well expirienced in
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,angular,java,php,c,cpp,postgres,mysql,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,angular,java,cpp,postgres,mysql,figma)](https://skills.thijs.gg)
 
 
   
