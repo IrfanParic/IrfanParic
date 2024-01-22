@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello, my name is [Irfan Paric](https://irfanparic.tech), and this is my GitHub!
+# Hello, my name is [Irfan Paric](https://irfanparic.netlify.app), and this is my GitHub!
   
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" target="_blank">](https://www.linkedin.com/in/irfan-paric-b96b6a160) &nbsp; &nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" target="_blank">](https://www.facebook.com/irfan.paric1) &nbsp; &nbsp;
