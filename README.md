@@ -10,8 +10,6 @@
  Currently, I am a 4th year student at [SSST](https://ssst.edu.ba), major in Computer Science and minor in International Business.
  
   
-/*## I am well expirienced in
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,java,cpp,postgres,mysql,figma)](https://skills.thijs.gg)*/
 
 
   
